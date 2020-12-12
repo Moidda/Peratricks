@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1532841316 source:c:\users\eva\desktop\programs\tetris\main.cpp
+	"iGraphics.h"
+
+1462108168 c:\users\eva\desktop\programs\tetris\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1530971764 c:\users\eva\desktop\programs\tetris\levelcontrol.h
+
